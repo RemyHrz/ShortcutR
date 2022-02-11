@@ -1,0 +1,9 @@
+Name: Insert %>.%
+Description: Inserts `%>.%` at the cursor position.
+Binding: insertPipeAddin
+Interactive: false
+
+Name: Insert ->
+Description: Inserts `->` at the cursor position.
+Binding: insertRevopAddin
+Interactive: false
