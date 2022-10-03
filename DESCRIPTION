@@ -1,7 +1,7 @@
 Package: Pipekeyboard
 Title: Pipedotinsert
-Version: 1.0.1
-Authors: person("Me)
+Version: 1.0.2
+Authors: person("Me")
 Description: Insert pipe
 Depends:
     R (>= 3.0.0)
