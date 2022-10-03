@@ -1,14 +1,14 @@
 Name: Insert %>.%
 Description: Inserts `%>.%` at the cursor position.
-Binding: insertPipeAddin
+Binding: insertPipe
 Interactive: false
 
-Name: Insert ->
-Description: Inserts `->` at the cursor position.
-Binding: insertRevopAddin
+Name: Insert %->%
+Description: Inserts `%->%` at the cursor position.
+Binding: insertAssign
 Interactive: false
 
 Name: Insert %<-%
 Description: Inserts `%<-%` at the cursor position.
-Binding: insertAssignPercent
+Binding: insertAssignInvert
 Interactive: false

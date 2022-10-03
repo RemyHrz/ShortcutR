@@ -1,15 +1,12 @@
-Package: Pipekeyboard
-Title: Pipedotinsert
+Package: ShortcutR
+Title: ShortcutR
 Version: 1.0.3
-Authors: person("Me")
-Description: Insert pipe
+Authors: person("H.R")
+Description: Addins for pipe and assign
 Depends:
     R (>= 3.0.0)
 Imports:
-    shiny (>= 0.13),
-    miniUI (>= 0.1.1),
-    rstudioapi (>= 0.4),
-    formatR
+    rstudioapi (>= 0.4)
 License: MIT + file LICENSE
 LazyData: true
-RoxygenNote: 7.1.1
+RoxygenNote: 7.1.2
