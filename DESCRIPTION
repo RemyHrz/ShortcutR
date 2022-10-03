@@ -1,6 +1,6 @@
 Package: Pipekeyboard
 Title: Pipedotinsert
-Version: 1.0.2
+Version: 1.0.3
 Authors: person("Me")
 Description: Insert pipe
 Depends:

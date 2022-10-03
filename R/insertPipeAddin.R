@@ -13,12 +13,12 @@ insertPipeAddin <- function() {
 #'
 #' @export
 insertRevopAddin <- function() {
-  rstudioapi::insertText(" -> ")
+  rstudioapi::insertText(" %->% ")
 }
 
 #' Insert \%<-%\.
 #'
-#' Call this function as an addin to insert \code{ %<-% } at the cursor position.
+#' Call this function as an addin to insert \code{ \%<-%\ } at the cursor position.
 #'
 #' @export
 insertAssignPercent <- function() {
